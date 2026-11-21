@@ -1,0 +1,12 @@
+===== STUDENT MARKSHEET =====
+Student Name: 67
+Roll Number: 75
+Maths: 56.00
+Physics: 75.00
+Chemistry: 4.00
+English: 44.00
+Computer: 64.00
+Total: 243.00/500
+Percentage: 48.60%
+Grade: F
+Result: FAIL
